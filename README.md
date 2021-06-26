@@ -7,9 +7,6 @@ Bay Wheels (formerly Ford GoBike) is a regional bike-sharing system in the San F
 -	Subscribers have x8 more count of rides than customers
 -	People in their early 30s make the majority of rides count.
 -	Females make around quarter of the total distance traveled while males travel almost x3 more.
--	females have a higher trip duration than males around 650 seconds.
--	Gender has nothing to do with the preferred start date all genders prefer to start on Thursdays and weekends seems like an unpreferred choice
--	Gender has nothing to do with the preferred start date all genders prefer to start on 8th and 17th day of the month
 -	Most female bike riders are 31 while males are of age 33. In general, riders are in their late 20s to mid-30s.
 -	Subscribers tend not to start during the weekend while customers are less likely to start on Wednesdays
 -	In general customers has a higher trip duration than customers. males and other gender has same maximum value of duration which is around 550 seconds.
